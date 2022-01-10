@@ -1,0 +1,8 @@
+.vscode/*
+*.code-workspace
+*.o
+!*.cpp
+app*
+# Local History for Visual Studio Code
+.history/
+libcpu_macos.o
